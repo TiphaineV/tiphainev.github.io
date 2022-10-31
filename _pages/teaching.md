@@ -13,4 +13,5 @@ Telecom Paris:
  - [BGD702] Introduction to Hadoop ecosystem
  - [BGD703] Mining and analysis of massive datasets
  - [SD201] Mining and analysis of massive datasets
+ - DataAI basics: brush-up on probabilities and statistics
 
