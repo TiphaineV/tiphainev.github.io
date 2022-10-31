@@ -1,7 +1,6 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-10-31 14:00:00+0100
 inline: true
 ---
-
-A simple inline announcement.
+I will be presenting at the [Conference of Complex Networks and their Applications](https://complexnetworks.org/), held in Palermo from Nov. 7 to Nov. 10, 2022.
