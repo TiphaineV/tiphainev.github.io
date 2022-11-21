@@ -24,4 +24,4 @@ I am interested in working on artificial intelligence and data analysis from a s
 My main methods are graph analysis and neostructural sociology.
 
 You can find more information about my [current projects](projects/), the [courses I teach in](teaching/) or my [complete CV](assets/pdf/CV_Tiphaine_Viard.pdf).
-You can also follow me on [Mastodon]("https://lipn.info/@t_viard"){:rel="me"} to get a more "day-to-day" version of my work.
+You can also follow me on <a rel="me" href="https://lipn.info/@t_viard">Mastodon</a> to get a more "day-to-day" version of my work.
