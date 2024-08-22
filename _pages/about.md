@@ -27,3 +27,7 @@ Currently, my main focus is on charting artificial intelligence, eliciting the r
 
 You can find more information about my [current projects](projects/), the [courses I teach in](teaching/) or my [complete CV](assets/pdf/CV_Tiphaine_Viard.pdf).
 You can also follow me on <a rel="me" href="https://lipn.info/@t_viard">Mastodon</a> to get a more "day-to-day" version of my work.
+
+Current PhD supervisions:
+- Simon Delarue (2021-), co-supervised (50%) with Thomas Bonald,
+- Lilian Marey (2024-), co-supervised (30%) with Charlotte Laclau and Bruno Sguerra.
