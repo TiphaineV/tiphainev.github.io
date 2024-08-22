@@ -18,10 +18,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I'm Tiphaine Viard, a *maîtresse de conférences* (~assistant professor) in the Digital technologies, organisation and society team at Telecom Paris.
+Hi! I'm Tiphaine Viard, a *maîtresse de conférences* (~associate professor) in the Digital technologies, organisation and society team at Telecom Paris.
 
 I am interested in working on artificial intelligence and data analysis from a sociotechnical perspective.
-My main methods are graph analysis and neostructural sociology.
+My main methods are graph analysis and computational sociology.
+
+Currently, my main focus is on charting artificial intelligence, eliciting the relations betweeen concepts, persons and institutions over time.
 
 You can find more information about my [current projects](projects/), the [courses I teach in](teaching/) or my [complete CV](assets/pdf/CV_Tiphaine_Viard.pdf).
 You can also follow me on <a rel="me" href="https://lipn.info/@t_viard">Mastodon</a> to get a more "day-to-day" version of my work.
