@@ -30,4 +30,5 @@ You can also follow me on <a rel="me" href="https://lipn.info/@t_viard">Mastodon
 
 Current PhD supervisions:
 - Simon Delarue (2021-), co-supervised (50%) with Thomas Bonald,
+- Mélanie Gornet (2021-), co-supervised (25%) with Winston Maxwell and Florence d'Alché-Buc,
 - Lilian Marey (2024-), co-supervised (30%) with Charlotte Laclau and Bruno Sguerra.
