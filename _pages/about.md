@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant professor at <a href='#'>Telecom Paris</a>, Institut Polytechnique de Paris.
+subtitle: Associate professor at <a href='#'>Telecom Paris</a>, Institut Polytechnique de Paris.
 
 profile:
   align: right
@@ -29,6 +29,6 @@ You can find more information about my [current projects](projects/), the [cours
 You can also follow me on <a rel="me" href="https://lipn.info/@t_viard">Mastodon</a> to get a more "day-to-day" version of my work.
 
 Current PhD supervisions:
-- Simon Delarue (2021-), co-supervised (50%) with Thomas Bonald,
+- Simon Delarue (2021-2025), co-supervised (50%) with Thomas Bonald,
 - Mélanie Gornet (2021-), co-supervised (25%) with Winston Maxwell and Florence d'Alché-Buc,
 - Lilian Marey (2024-), co-supervised (30%) with Charlotte Laclau and Bruno Sguerra.
