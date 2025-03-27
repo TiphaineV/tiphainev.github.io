@@ -7,7 +7,14 @@ nav: true
 nav_order: 5
 ---
 
-## 2022 - 2023
+## AI & society courses
+
+-- insert slides here
+
+## Computational social science course
+
+
+In the past:
 
 Telecom Paris:
  - [BGD702] Introduction to Hadoop ecosystem
